@@ -117,6 +117,7 @@ with data retrieved from the database.
 
 ### Top 5 Scorers Window
 ![Top 5 Scorers](screenshots/top-scorers-window.png)
+
 ## Video Link
 YouTube: [LINK YOUTUBE KAMU]
 
