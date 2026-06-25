@@ -3,7 +3,7 @@
 ## Student Information
 Name        : Chandika Daffa Aqil Radhitya
 Student ID  : 5026251066
-Class       : A
+Class       : 
 
 ## Project Description
 This project is a simple Tic-Tac-Toe game application developed
