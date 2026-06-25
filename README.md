@@ -8,8 +8,7 @@ Class       : A
 ## Project Description
 This project is a simple Tic-Tac-Toe game application developed
 using Java Swing as the graphical user interface. The application
-was created as a small project for the ES234211 Programming
-Fundamental course at Institut Teknologi Sepuluh Nopember (ITS).
+was created as a small project for Programming Fundamental course.
 The player competes against a computer that makes random moves,
 giving the player a fair chance to win, lose, or draw. All player
 data and game statistics are stored in a single PostgreSQL database
