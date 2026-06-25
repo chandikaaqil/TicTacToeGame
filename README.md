@@ -106,7 +106,7 @@ with data retrieved from the database.
 ![Login Window](screenshots/login-window.png)
 
 ### Main Menu Window
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](screenshots/main-menu-window.png)
 
 ### Game Window
 ![Game Window](screenshots/game-window.png)
