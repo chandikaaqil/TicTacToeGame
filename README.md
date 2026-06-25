@@ -121,4 +121,4 @@ with data retrieved from the database.
 YouTube: [LINK YOUTUBE KAMU]
 
 ## GitHub Link
-GitHub: [LINK GITHUB](https://github.com/chandikaaqil/TicTacToeGame.git)
+GitHub: (https://github.com/chandikaaqil/TicTacToeGame.git)
