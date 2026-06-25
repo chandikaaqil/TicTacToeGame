@@ -26,7 +26,7 @@ Database used: PostgreSQL
 
 ## How to Create the Database
 1. Open DBeaver.
-2. Connect to your PostgreSQL server.
+2. Connect to PostgreSQL server.
 3. Run the following SQL to create the database:
 
 ```sql
