@@ -118,7 +118,7 @@ with data retrieved from the database.
 ![Top 5 Scorers](screenshots/top-scorers-window.png)
 
 ## Video Link
-YouTube: [LINK YOUTUBE KAMU]
+YouTube: [[LINK YOUTUBE]](https://youtu.be/1OlU75R9JeI)
 
 ## GitHub Link
 GitHub: https://github.com/chandikaaqil/TicTacToeGame.git
