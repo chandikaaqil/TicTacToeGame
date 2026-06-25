@@ -1,4 +1,4 @@
-# Tic Tac Toe Game using Java Swing and PostgreSQL
+# Tic-Tac-Toe Game using Java Swing and PostgreSQL
 
 ## Student Information
 Name        : Chandika Daffa Aqil Radhitya
