@@ -106,12 +106,17 @@ with data retrieved from the database.
 ### Login Window
 ![Login Window](screenshots/login-window.png)
 
+### Main Menu Window
+![Main Menu](screenshots/main-menu.png)
+
 ### Game Window
 ![Game Window](screenshots/game-window.png)
 
+### Statistics Window
+![Statistics](screenshots/statistics-window.png)
+
 ### Top 5 Scorers Window
 ![Top 5 Scorers](screenshots/top-scorers-window.png)
-
 ## Video Link
 YouTube: [LINK YOUTUBE KAMU]
 
